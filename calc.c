@@ -11,3 +11,8 @@ int add(n1,n2)
   return n1+n2;
 
 }
+
+int mul(n1 , n2)
+{
+  return n1*n2;
+}
